@@ -1,0 +1,2 @@
+[neutron.service_plugins]
+portforward=neutron.services.skycloud.plugin:PortForwardPlugin
