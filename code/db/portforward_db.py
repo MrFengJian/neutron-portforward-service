@@ -1,3 +1,4 @@
+#copyright from fengjj@chinaskycloud.com
 from neutron.openstack.common import log as logging
 import sqlalchemy as sa
 from sqlalchemy.orm import exc
